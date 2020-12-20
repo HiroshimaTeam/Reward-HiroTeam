@@ -1,6 +1,6 @@
 # Reward-HiroTeam
 ### **Description**
-Apprendre a créer son plugin de Récompense journalière
+Apprendre à créer son plugin de Récompense journalière
 
 Référence vidéo: https://youtu.be/R4l_7FBBcM0
 
